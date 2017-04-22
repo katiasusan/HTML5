@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS DOCUMENT */
+
+/* selector de etiqueta */
+body {
+    background-color: #89c877;
+}
+
+/*
+header {
+    background-color: #ed4b4b;
+}
+*/
+
+/* selector de tipo id */
+
+#cabeceraweb {
+    background-color: #f4c41a;
+}
+
+#navegadorprincipal {
+    background-color: #1a6286;
+}
+
+li {
+    background-color: #ff0000;
+    display: inline;
+}
+
+/* Selector de tipo clase*/
+
+.java {
+    background-color: #3fc886;
+}
+
+.udemy {
+    background-color: #bea21d;
+}
+
+#barralateral {
+    background-color: #447ad5;
+    float: left;
+    height: 1350px;
+}
+
+#contenidoprincipal {
+    background-color: #9858e0;
+    margin-left: 200px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#piedepagina {
+    background-color: #6d747d;
+    clear: both;
+    margin-top: 30px;
+}
