@@ -105,6 +105,23 @@ nav a:hover{
     color: black;
 }
 
+div ul{
+    list-style-type: none;
+}
+
+div li{
+    float: ;
+}
+
+.menu{
+    list-style-type: none;
+}
+
+.menu li{
+    float: right;
+    padding: 10px
+}
+
 main{
     padding: 20px;
 }
@@ -123,11 +140,6 @@ footer{
     padding: 10px;
     text-align: center;
 }
-
-
-
-
-
 
 
 

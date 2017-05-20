@@ -160,7 +160,8 @@ footer{
 }
 
 footer p{
+    text-align: center;
     font: 1.6em Georgia, "Times New Roman", Times, serif;
-    color: #666;
+    color: #ffffff;
     margin: 10px 8px;
 }

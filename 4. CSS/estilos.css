@@ -6,11 +6,11 @@ body {
     background-color: #89c877;
 }
 
-/*
-header {
+
+/*header {
     background-color: #ed4b4b;
-}
-*/
+}*/
+
 
 /* selector de tipo id */
 
@@ -40,7 +40,7 @@ li {
 #barralateral {
     background-color: #447ad5;
     float: left;
-    height: 1350px;
+    height: 1550px;
 }
 
 #contenidoprincipal {
@@ -55,4 +55,5 @@ li {
     background-color: #6d747d;
     clear: both;
     margin-top: 30px;
+    padding: 20px;
 }
